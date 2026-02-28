@@ -131,12 +131,9 @@ export default function App() {
     <>
       <main className="main-container">
         <div className="left-side">
-          <h1 className="headline">SimTube</h1>
+          <h1 className="headline">lessntube</h1>
           <p className="subtitle">
             Generate interactive learning apps from YouTube content
-          </p>
-          <p className="attribution">
-            An experiment by <strong>Aaron Wade</strong>
           </p>
           <div className="input-container">
             <label htmlFor="youtube-url" className="input-label">
